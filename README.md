@@ -1,2 +1,2 @@
 # FNF-CHROMATIC-SCALES
-Fnf soundfonts and possibly midis lololol
+Fnf chromatic scales and possibly midis lololol
